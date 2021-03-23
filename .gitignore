@@ -1,0 +1,19 @@
+# Repository
+.git/
+
+# PyCharm IDE
+.idea/
+
+# Virtual Environment
+.tox/
+
+# Jupyter Lab
+.ipynb_checkpoints/
+
+# temp files created by notebooks
+/corpus.pkl
+/cv.pkl
+/cv_stop.pkl
+/data_clean.pkl
+/dtm.pkl
+/dtm_stop.pkl

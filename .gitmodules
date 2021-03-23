@@ -1,0 +1,3 @@
+[submodule "src/btap"]
+	path = src/btap
+	url = https://github.com/c-w-m/btap.git
